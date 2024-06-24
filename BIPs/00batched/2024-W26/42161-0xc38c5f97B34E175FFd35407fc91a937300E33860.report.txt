@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2024-W26/42161-0xc38c5f97B34E175FFd35407fc91a937300E33860.json`
 MULTISIG: `multisigs/lm (arbitrum:0xc38c5f97B34E175FFd35407fc91a937300E33860)`
-COMMIT: `6f51e78984818972c7b3062d4dd76c47bd1d1217`
+COMMIT: `37998fb8cbf401616de643db9439fcc47aeb2cc9`
 CHAIN(S): `arbitrum`
-TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/33d2bfaa-b76b-41bd-9db1-c32e9f9ab401)
+TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/0a4e9dc6-6c29-40d2-9362-144639f91c05)
 ```
 +---------+-------------------------------------------------------------------------------------------------------------+-------+--------+------------+----------+
 | fx_name | to                                                                                                          | value | inputs | bip_number | tx_index |

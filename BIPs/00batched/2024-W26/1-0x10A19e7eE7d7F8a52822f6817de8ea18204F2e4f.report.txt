@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2024-W26/1-0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f.json`
 MULTISIG: `multisigs/dao (mainnet:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f)`
-COMMIT: `6f51e78984818972c7b3062d4dd76c47bd1d1217`
+COMMIT: `37998fb8cbf401616de643db9439fcc47aeb2cc9`
 CHAIN(S): `mainnet`
-TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/222205a7-6af5-4981-90f3-e4ef60f5445b)
+TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/50823fc9-770f-4a4b-b8e0-f379c6e9f8b4)
 ```
 +--------------------------+--------------------------------------------------------------------+----------+-----+--------------------------------------------+------+------+---------+---------+----------+---------------------------------------------------------------------------------------------------------+
 | function                 | pool_id                                                            | symbol   | a   | gauge_address                              | fee  | cap  | style   |   bip   | tx_index | tokens                                                                                                  |
@@ -12,9 +12,9 @@ TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/222205a7-6af5-4981-90f
 ```
 FILENAME: `BIPs/00batched/2024-W26/1-0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f.json`
 MULTISIG: `multisigs/dao (mainnet:0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f)`
-COMMIT: `6f51e78984818972c7b3062d4dd76c47bd1d1217`
+COMMIT: `37998fb8cbf401616de643db9439fcc47aeb2cc9`
 CHAIN(S): `mainnet`
-TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/4ad3f7fb-217e-4466-8d7a-91c5e96a8773)
+TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/98f20a55-480e-4b70-b128-440b95edc94a)
 ```
 +----------+-------------------------------------------------+-----------------------------------------------------------------------------+----------------------------------------+---------+----------+
 | function | token_symbol                                    | recipient                                                                   | amount                                 |   bip   | tx_index |

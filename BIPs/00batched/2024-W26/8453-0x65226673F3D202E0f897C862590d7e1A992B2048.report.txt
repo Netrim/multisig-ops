@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2024-W26/8453-0x65226673F3D202E0f897C862590d7e1A992B2048.json`
 MULTISIG: `multisigs/lm (base:0x65226673F3D202E0f897C862590d7e1A992B2048)`
-COMMIT: `6f51e78984818972c7b3062d4dd76c47bd1d1217`
+COMMIT: `37998fb8cbf401616de643db9439fcc47aeb2cc9`
 CHAIN(S): `base`
-TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/a5150dac-723c-4572-a08a-dee99909cbb0)
+TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/c339e8a1-40b3-418a-bb71-0bf2b7786f4e)
 ```
 +---------+-------------------------------------------------------------------------------------------------------------+-------+--------+------------+----------+
 | fx_name | to                                                                                                          | value | inputs | bip_number | tx_index |

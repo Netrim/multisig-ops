@@ -1,6 +1,6 @@
 FILENAME: `BIPs/00batched/2024-W26/10-0x14969B55a675d13a1700F71A37511bc22D90155a.json`
 MULTISIG: `!NOT FOUND (optimism:0x14969B55a675d13a1700F71A37511bc22D90155a)`
-COMMIT: `6f51e78984818972c7b3062d4dd76c47bd1d1217`
+COMMIT: `37998fb8cbf401616de643db9439fcc47aeb2cc9`
 CHAIN(S): `optimism`
 TENDERLY: SKIPPED (`BadFunctionCallOutput('Could not transact with/call contract function, is contract deployed correctly and chain synced?')`)
 ```

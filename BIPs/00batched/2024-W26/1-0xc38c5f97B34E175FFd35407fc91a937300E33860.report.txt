@@ -1,8 +1,8 @@
 FILENAME: `BIPs/00batched/2024-W26/1-0xc38c5f97B34E175FFd35407fc91a937300E33860.json`
 MULTISIG: `multisigs/lm (mainnet:0xc38c5f97B34E175FFd35407fc91a937300E33860)`
-COMMIT: `6f51e78984818972c7b3062d4dd76c47bd1d1217`
-CHAIN(S): `base, mainnet, arbitrum, polygon, gnosis`
-TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/8b53850e-39d8-4e85-8195-8ae144a4f500)
+COMMIT: `37998fb8cbf401616de643db9439fcc47aeb2cc9`
+CHAIN(S): `gnosis, mainnet, arbitrum, base, polygon`
+TENDERLY: [FAILURE](https://www.tdly.co/shared/simulation/6cee0b1a-0ffd-49b4-aa48-45ff265c8165)
 ```
 +-----------------------+---------------------------------------------------------------------+----------------------------+--------------------------------------------+------------------------------------------------------------+--------------------------------------------+----------------+---------+----------+
 | function              | pool_id_and_address                                                 | symbol_and_info            | gauge_address_and_info                     | tokens                                                     | rate_providers                             | review_summary |   bip   | tx_index |
@@ -32,9 +32,9 @@ TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/8b53850e-39d8-4e85-819
 ```
 FILENAME: `BIPs/00batched/2024-W26/1-0xc38c5f97B34E175FFd35407fc91a937300E33860.json`
 MULTISIG: `multisigs/lm (mainnet:0xc38c5f97B34E175FFd35407fc91a937300E33860)`
-COMMIT: `6f51e78984818972c7b3062d4dd76c47bd1d1217`
+COMMIT: `37998fb8cbf401616de643db9439fcc47aeb2cc9`
 CHAIN(S): `mainnet`
-TENDERLY: [SUCCESS](https://www.tdly.co/shared/simulation/ce699b82-9816-4f64-bea1-b384d1969ac4)
+TENDERLY: [FAILURE](https://www.tdly.co/shared/simulation/0ea47959-6f80-4726-b024-e0d7fb9ed9ea)
 ```
 +---------+-------------------------------------------------------------------------------------------------------------+-------+--------------+------------+----------+
 | fx_name | to                                                                                                          | value | inputs       | bip_number | tx_index |
